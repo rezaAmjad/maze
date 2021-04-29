@@ -21,7 +21,8 @@ w = 40
 
 
 grid = []
-visitedCell = None
+
+
 
 
 def make_grid():
