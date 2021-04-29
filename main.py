@@ -23,7 +23,7 @@ w = 40
 grid = []
 
 
-
+visited = None
 
 def make_grid():
     rows = math.floor(WINDOW_WIDTH // w)
